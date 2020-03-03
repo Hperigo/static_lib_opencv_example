@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.0.0 FATAL_ERROR)
 
-project(cv_test)
+project(example_app_opencv)
 
 #mac os specific libraries
 find_package(ZLIB REQUIRED)
@@ -12,12 +12,12 @@ include_directories(
 	"${CMAKE_CURRENT_SOURCE_DIR}/libs/opencv_install_dir/include/opencv-4.2.0-dev/"
 )
 
-add_executable(cv_test main.cpp)
+add_executable(example_app_opencv main.cpp)
 
 # Opencv needs c++11
-set_property(TARGET cv_test PROPERTY CXX_STANDARD 11) 
+set_property(TARGET example_app_opencv PROPERTY CXX_STANDARD 11) 
 
-target_link_libraries( cv_test
+target_link_libraries( example_app_opencv
 	
 	"${ZLIB_LIBRARIES}"
 	"${COCOA_LIBRARY}"

@@ -2,7 +2,6 @@
 
 
 This is a guide for anyone who wants to use opencv as a static library with cmake and without homebrew. 
-
 It took me some time to figure out how to do this, so I'm writing this for the future me and for anyone who finds the info usefull. But be aware that I might be forgetting something. 
 
 ## Steps:
