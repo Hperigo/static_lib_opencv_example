@@ -48,5 +48,6 @@ It took me some time to figure out how to do it so I'm writing this for the futu
 
 
 ## Other helpfull sites:
-	[https://outofbedlam.github.io/opencv/2015/07/15/Build-OpenCV-MacOSX/](https://outofbedlam.github.io/opencv/2015/07/15/Build-OpenCV-MacOSX/)
-	https://shiffman.net/opencv/2011/01/23/how-to-build-opencv-static-libraries-mac-os-x/
+[https://outofbedlam.github.io/opencv/2015/07/15/Build-OpenCV-MacOSX/](https://outofbedlam.github.io/opencv/2015/07/15/Build-OpenCV-MacOSX/)
+
+[https://shiffman.net/opencv/2011/01/23/how-to-build-opencv-static-libraries-mac-os-x/](https://shiffman.net/opencv/2011/01/23/how-to-build-opencv-static-libraries-mac-os-x/)
